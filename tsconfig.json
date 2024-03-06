@@ -1,7 +1,6 @@
 {
     "compilerOptions": {
       "declaration": true,
-      "emitDeclarationOnly": true,
       "experimentalDecorators": true,
       "allowSyntheticDefaultImports": true,
       "importHelpers": true,
@@ -10,7 +9,7 @@
       "module": "esnext",
       "moduleResolution": "node",
       "noEmitOnError": true,
-      "outDir": "build",
+      "outDir": "./build/src",
       "rootDir": "src",
       "sourceMap": true,
       "strict": true,
