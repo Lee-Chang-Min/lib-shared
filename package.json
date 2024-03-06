@@ -18,11 +18,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "easySetting-msa",
+  "name": "lib-shared",
   "author": "lcm",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lee-Chang-Min/easySetting-msa"
+    "url": "git+https://github.com/Lee-Chang-Min/lib-shared"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
