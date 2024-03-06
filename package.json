@@ -22,7 +22,7 @@
   "author": "lcm",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lee-Chang-Min/lib-shared"
+    "url": "git+https://github.com/Lee-Chang-Min/lib-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
