@@ -18,7 +18,7 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "lib-shared",
+  "name": "@Lee-Chang-Min/lib-shared",
   "author": "lcm",
   "repository": {
     "type": "git",
